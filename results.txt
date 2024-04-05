@@ -14,3 +14,5 @@ Data missing systematically:
 Demographic/ statistical parity: -0.11594522347228114
 Disparate impact: 0.6720840405495038
 Conditional demographic disparity: -0.21333260553428218
+
+For information on how to interpet these results see: https://transformernlp.medium.com/ai-fairness-a-brief-introduction-to-ai-fairness-360-b2e39c96ca49

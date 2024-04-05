@@ -1,0 +1,16 @@
+Note that due to the randomness involved with imputation, results can vary.
+
+Baseline results:
+Demographic/ statistical parity: -0.08717368656642066
+Disparate impact: 0.7562721984879435
+Conditional demographic disparity: -0.15839796446659044
+
+Data completely missing at randoom:
+Demographic parit/ statistical: -0.06926364578518063
+Disparate impact: 0.7566824462417243
+Conditional demographic disparity: -0.12449082811419396
+
+Data missing systematically:
+Demographic/ statistical parity: -0.11594522347228114
+Disparate impact: 0.6720840405495038
+Conditional demographic disparity: -0.21333260553428218

@@ -6,3 +6,4 @@ aif360[all]
 gensim
 scipy==1.10.1
 fairlearn
+wheel
